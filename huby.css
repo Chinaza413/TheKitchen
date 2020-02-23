@@ -1,0 +1,48 @@
+* {
+    background-image: url(abstract.png);
+}
+
+.head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.fab {
+    padding: 10px;
+    color: #ffffff;
+    font-size: 50px;
+}
+
+#head-text {
+    font-family: 'Oregano';
+    color: #ffffff;
+    font-size: 60px;
+}
+
+#socials {
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    color: #ffffff;
+}
+
+#team {
+    font-family: 'Oregano';
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+}
+
+.body {
+    font-family: 'Poppins';
+    display: inline-block;
+    text-align: center;
+    padding: 28px;
+}
+
+#musty {
+    width: fit-content;
+}
